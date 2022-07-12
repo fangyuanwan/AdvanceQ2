@@ -1,0 +1,10 @@
+﻿using System;
+namespace taskConsume
+{
+	public class consumerdeploy
+	{
+		public consumerdeploy()
+		{
+		}
+	}
+}

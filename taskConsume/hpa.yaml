@@ -1,0 +1,10 @@
+﻿using System;
+namespace taskConsume
+{
+	public class hpa
+	{
+		public hpa()
+		{
+		}
+	}
+}
